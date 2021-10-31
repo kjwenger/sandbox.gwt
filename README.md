@@ -1,6 +1,7 @@
 # sandbox.gwt
-Sandbox for all Google Web Toolkit (GWT) related experimentations
+Sandbox for all Google Web Toolkit (GWT) experiments
 
-## Documentation
+## Links
 
-[Build a GWT app: Introduction](http://www.gwtproject.org/doc/latest/tutorial/gettingstarted.html)
+[Tutorials: Overview](http://www.gwtproject.org/doc/latest/tutorial/index.html)
+[Maven Plugin for GWT](https://tbroyer.github.io/gwt-maven-plugin/codeserver.html)
